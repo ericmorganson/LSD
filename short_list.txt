@@ -1,0 +1,2 @@
+DEC/finalcut/Y5A1/20190208-r4068/D00821094/p01/red/immask/D00821094_g_c01_r4068p01_immasked.fits.fz
+DEC/finalcut/Y5A1/20190208-r4068/D00821094/p01/cat/D00821094_g_c01_r4068p01_red-fullcat.fits
